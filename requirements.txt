@@ -1,4 +1,0 @@
-aiogram>=3.22,<4
-SQLAlchemy>=2.0,<3
-aiosqlite>=0.21,<1
-asyncpg>=0.30,<1
